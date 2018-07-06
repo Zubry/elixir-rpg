@@ -1,3 +1,3 @@
 FROM elixir:alpine
-ADD . /code
-WORKDIR /code
+ADD . /mmo
+WORKDIR /mmo
